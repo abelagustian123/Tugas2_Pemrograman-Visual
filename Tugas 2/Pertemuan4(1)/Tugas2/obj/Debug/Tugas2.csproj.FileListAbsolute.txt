@@ -1,0 +1,8 @@
+D:\C#\Tugas2\Tugas2\obj\Debug\Tugas2.csprojResolveAssemblyReference.cache
+D:\C#\Tugas2\Tugas2\obj\Debug\Tugas2.MainForm.resources
+D:\C#\Tugas2\Tugas2\obj\Debug\Tugas2.csproj.GenerateResource.Cache
+D:\C#\Tugas2\Tugas2\bin\Debug\Tugas2.exe.config
+D:\C#\Tugas2\Tugas2\bin\Debug\Tugas2.exe
+D:\C#\Tugas2\Tugas2\bin\Debug\Tugas2.pdb
+D:\C#\Tugas2\Tugas2\obj\Debug\Tugas2.exe
+D:\C#\Tugas2\Tugas2\obj\Debug\Tugas2.pdb

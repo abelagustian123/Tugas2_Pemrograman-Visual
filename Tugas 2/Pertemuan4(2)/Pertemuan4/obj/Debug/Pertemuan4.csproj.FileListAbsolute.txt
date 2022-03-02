@@ -1,0 +1,8 @@
+D:\C#\Pertemuan4\Pertemuan4\bin\Debug\Pertemuan4.exe.config
+D:\C#\Pertemuan4\Pertemuan4\bin\Debug\Pertemuan4.exe
+D:\C#\Pertemuan4\Pertemuan4\bin\Debug\Pertemuan4.pdb
+D:\C#\Pertemuan4\Pertemuan4\obj\Debug\Pertemuan4.csprojResolveAssemblyReference.cache
+D:\C#\Pertemuan4\Pertemuan4\obj\Debug\Pertemuan4.MainForm.resources
+D:\C#\Pertemuan4\Pertemuan4\obj\Debug\Pertemuan4.csproj.GenerateResource.Cache
+D:\C#\Pertemuan4\Pertemuan4\obj\Debug\Pertemuan4.exe
+D:\C#\Pertemuan4\Pertemuan4\obj\Debug\Pertemuan4.pdb
